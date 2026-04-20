@@ -4,7 +4,7 @@ Interactive GTM dashboard for segment prioritization and capital allocation.
 
 ## Live dashboard
 
-👉 [Open dashboard](https://your-username.github.io/leadforce-dashboard/)
+👉 [Open dashboard](https://saasfounders.github.io/leadforce-dashboard/)
 
 ## What's inside
 
